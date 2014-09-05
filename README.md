@@ -1,4 +1,4 @@
-eduTecCul
-=========
+eduTecBlog
+====
 
-Blog sobre Educação, Tecnologia e Cultura
+Textos sobre Educação, Tecnologia e Cultura

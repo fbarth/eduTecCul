@@ -1,0 +1,12 @@
+# Site settings
+title: Fabrício J. Barth, alguns fatos...
+email: fabricio.barth@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Blog com textos sobre Educação, Tecnologia e Cultura.
+baseurl: "/eduTecCul" # the subpath of your site, e.g. /blog/
+url: "http://fbarth.github.io" # the base hostname & protocol for your site
+twitter_username: fbarth
+github_username:  fbarth
+
+# Build settings
+markdown: kramdown
