@@ -14,4 +14,4 @@ Enfim, as perguntas continuam mais ou menos neste contexto e, na verdade, reflet
 
 Segundo o Instituto de Estudos Avançados da USP, nos paises desenvolvidos, a proporção de pesquisadores na indústria, em comparação com a academia, é de aproximadamente quatro para um. No Brasil é o contrário. De cada quatro pesquisadores, três estão na academia. Na minha opinião, está na hora de mudar esta proporção aqui no Brasil.
 
-![doutores]({{ site.url }}{{ site.baseurl }}assets/doutores-300x224.png "Doutores no Brasil")
+![]({{ site.url }}{{ site.baseurl }}/assets/doutores-300x224.png "Doutores no Brasil")
